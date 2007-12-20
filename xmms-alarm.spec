@@ -11,7 +11,7 @@ Release: %{release}
 Group: Sound
 Source: http://www.snika.uklinux.net/%{name}/%{name}-%{version}.tar.bz2
 License: GPL
-BuildRequires: xmms1-devel >= 1.2.0
+BuildRequires: xmms-devel >= 1.2.0
 Url: http://www.snika.uklinux.net/
 
 %description
