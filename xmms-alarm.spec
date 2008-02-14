@@ -9,6 +9,7 @@ Name: %{name}
 Version: %{version}
 Release: %{release}
 Group: Sound
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Source: http://www.snika.uklinux.net/%{name}/%{name}-%{version}.tar.bz2
 License: GPL
 BuildRequires: xmms-devel >= 1.2.0
