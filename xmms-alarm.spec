@@ -1,6 +1,6 @@
 %define name    xmms-alarm
 %define version 0.3.7
-%define release %mkrel 3
+%define release %mkrel 4
 
 %define __libtoolize /bin/true
 
