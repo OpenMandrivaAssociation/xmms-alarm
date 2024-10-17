@@ -13,7 +13,7 @@ BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Source: http://www.snika.uklinux.net/%{name}/%{name}-%{version}.tar.bz2
 License: GPL
 BuildRequires: xmms-devel >= 1.2.0
-Url: http://www.snika.uklinux.net/
+Url: https://www.snika.uklinux.net/
 
 %description
 xmms-alarm is an alarm plugin to use with XMMS that fades up the volume in
